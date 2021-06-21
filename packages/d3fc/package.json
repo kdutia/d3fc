@@ -35,6 +35,7 @@
     "@d3fc/d3fc-financial-feed": "^7.1.0",
     "@d3fc/d3fc-group": "^3.0.1",
     "@d3fc/d3fc-label-layout": "^7.0.3",
+    "@d3fc/d3fc-clicker": "^3.0.2",
     "@d3fc/d3fc-pointer": "^3.0.2",
     "@d3fc/d3fc-random-data": "^4.0.1",
     "@d3fc/d3fc-rebind": "^6.0.1",

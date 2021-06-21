@@ -13,6 +13,7 @@ export * from '@d3fc/d3fc-annotation';
 export * from '@d3fc/d3fc-axis';
 export * from '@d3fc/d3fc-element';
 export * from '@d3fc/d3fc-pointer';
+export * from '@d3fc/d3fc-clicker';
 export * from '@d3fc/d3fc-group';
 export * from '@d3fc/d3fc-chart';
 export * from '@d3fc/d3fc-brush';
